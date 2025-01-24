@@ -15,3 +15,13 @@ if (tenhoDinheiroSuficiente) {
 } else {
     console.log("Não posso comprar ambos! :(");
 }
+
+// outra aula
+
+const x = 'Olá!';
+
+console.log(x);
+
+const tipo = typeof(x);
+
+console.log(tipo);
